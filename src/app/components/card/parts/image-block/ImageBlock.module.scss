@@ -1,0 +1,41 @@
+.imageBlock {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  height: 100%;
+
+  &__image {
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  &__created {
+    font-size: 12px;
+    line-height: 24px;
+    color: #F3F3F3;
+  }
+
+  &__author {
+    display: block;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: -5px;
+  }
+
+  &__name {
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    max-width: 210px;
+  }
+}
+
+

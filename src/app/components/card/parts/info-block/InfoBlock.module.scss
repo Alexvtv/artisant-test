@@ -1,0 +1,31 @@
+.infoBlock {
+  height: 78px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+
+
+  &__param {
+    font-size: 12px;
+    line-height: 24px;
+    color: #808080;
+  }
+
+  &__quantity {
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+  }
+
+  &__priceWrap {
+    text-align: right;
+  }
+
+  &__price {
+    color: #0040e5;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+  }
+}
