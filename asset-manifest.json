@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artisant-test/static/css/main.daa88ac9.css",
+    "main.js": "/artisant-test/static/js/main.ce7a152b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/artisant-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/card-image.png": "/artisant-test/static/media/card-image.38287535ab84e8c38245.png",
+    "index.html": "/artisant-test/index.html",
+    "main.daa88ac9.css.map": "/artisant-test/static/css/main.daa88ac9.css.map",
+    "main.ce7a152b.js.map": "/artisant-test/static/js/main.ce7a152b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/artisant-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa88ac9.css",
+    "static/js/main.ce7a152b.js"
+  ]
+}
